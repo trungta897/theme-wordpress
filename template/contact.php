@@ -9,7 +9,7 @@
     <div id="main-content">
         <div class="contact-information">
             <h4>Liên hệ:</h4>
-            <p><i class="fa fa-github" aria-hidden="true"></i>Github: <a href="https://github.com/trungta897"> Nguyễn Hiếu</a></p>
+            <p class="contact-1">Github: <a href="https://github.com/trungta897"> Nguyễn Hiếu</a></p>
         </div>
 
         <div class="contact-form">
