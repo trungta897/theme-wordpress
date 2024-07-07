@@ -1,0 +1,12 @@
+{
+    "php.stubs": [
+        "*",
+        "wordpress"
+    ],
+    "cSpell.words": [
+        "dismissable",
+        "newstheme",
+        "superfish",
+        "tgmpa"
+    ]
+}
